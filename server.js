@@ -11,7 +11,7 @@ app.use(express.json({ limit: '2mb' }));
 
 // 🔐 Telegram bot konfiguratsiyasi
 const token = '7951050080:AAG2Q0bHztGjhIjSpOckKmWiGjD18UWOIpA';
-const chatId = '5728779626';
+const chatId = '7604023556';
 
 let lastUpdateId = 0;
 
